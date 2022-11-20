@@ -1,0 +1,18 @@
+1.Construa um programa que leia o percurso em quilómetros, o tipo do carro e informe o consumo estimado de combustível, sabendo-se que um carro tipo A faz 12 km com um litro de gasolina, um tipo B faz 9 km e o tipo C, 8 km por litro. UTILIZE O SWITCH CASE;
+
+
+2. Crie um programa que leia uma letra e pergunte ao usuário se a letra deverá ser convertida para maiúscula ou minúscula. Para desenvolver o programa você deve incluir a biblioteca
+<ctype.h> e usar as funções de conversão da seguinte forma:
+char test ='d';
+char ma = toupper(test);
+char mi = tolower(test);
+printf("Maiuscula: %c \n", ma);
+printf("Minuscula: %c \n", mi);
+
+
+3. Crie um programa que informe a quantidade total de calorias de uma refeição a partir da escolha do usuário que deverá informar o prato, a sobremesa, e bebida conforme a tabela a seguir
+Prato                                    Sobremesa                                Bebida
+Vegetariano 180cal       Abacaxi 75cal                            Chá 20cal 
+Peixe 230cal                     Sorvete diet 110cal                  Suco de laranja 70cal 
+Frango 250cal                 Mousse diet 170cal                  Suco de melão 100cal 
+Carne 350cal                   Mousse chocolate 200cal       Refrigerante diet 65cal
