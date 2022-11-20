@@ -1,0 +1,13 @@
+01. Faça um programa em C que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). Para isso, será necessário também ler o valor da cotação do dólar.
+02. Faça um programa em C que leia um número real e calcule o quadrado deste número. Ao final, o programa deve imprimir o resultado do cálculo.
+03. Faça um programa em C que leia a base e a altura de um retângulo e imprima o perímetro (base + altura) e a área (base * altura).
+04.  Faça um programa em C que calcule o perímetro e a área de uma circunferência de raio R (fornecido pelo usuário).
+05.  Faça um programa em C que calcule a quantidade de litros de combustível consumidos em uma viagem, sabendo-se que o carro tem autonomia de 12 km por litro de combustível. O programa deverá ler o tempo decorrido na viagem e a velocidade média e aplicar as fórmulas: 
+D = T ×V 
+L =
+D/12 
+ Em que: 
+• D = Distância percorrida em horas 
+• T = Tempo decorrido 
+• V = Velocidade média 
+• L = Litros de combustível consumidos
