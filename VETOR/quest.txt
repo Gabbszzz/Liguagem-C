@@ -1,0 +1,5 @@
+1. Escreva um programa que leia do teclado um vetor de 10 posições. Escreva na tela
+quantos valores pares foram armazenados nesse vetor.
+2. Faça um programa que receba do usuário um vetor X com 10 posições. Em seguida deverão ser impressos o maior e o menor elemento desse vetor.
+3. Faça um programa que receba do usuário dois vetor, A e B, com 10 números inteiros cada. Crie um novo vetor C calculando C = A − B. Mostre na tela os dados do vetor C.
+4. Faça um programa que preencha um vetor de tamanho 100 com os 100 primeiros números naturais que não são múltiplos de 7. Ao final, imprima esse vetor na tela.
