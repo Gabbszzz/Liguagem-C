@@ -1,0 +1,4 @@
+01. Olá mundo!!;
+02. Soma;
+03. Média
+04. Faça um programa em C que mostre seu nome, seu endereço e o seu telefone.
