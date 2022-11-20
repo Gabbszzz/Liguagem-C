@@ -1,0 +1,20 @@
+DESAFIO
+1. Faça um programa em C que calcule o valor de uma prestação em atraso. Para isso, o programa deve ler o valor da prestação vencida, a taxa periódica de juros e o período de atraso. Ao final, o programa deve imprimir o valor da prestação atrasada, o período de atraso, os juros que serão cobrados pelo período de atraso, o valor da prestação acrescido dos juros. Considere juros simples.
+
+
+ 2. Escreva um programa em linguagem C que leia um peso na Terra e o número de um planeta e imprima o valor correspondente do peso neste planeta. A relação de planetas é dada a seguir juntamente com o valor das gravidades relativas à Terra.
+ Código   Gravidade Relativa   Planeta 
+1                           0,37               Mercúrio 
+2                           0,88               Vênus 
+3                           0,38               Marte 
+4                           2,64               Júpiter 
+5                           1,15               Saturno 
+6                           1,17               Urano  
+
+Para calcular o peso no planeta use a fórmula: 
+PP = PT/10×G 
+Em que: 
+• PP = Peso no planeta 
+• PT = Peso na Terra 
+• G = Gravidade relativa  
+UTILIZE O SWITCH CASE,
