@@ -1,0 +1,22 @@
+1. Faça um programa que apresente o menu de opções a seguir:  
+Menu de opções:  
+1. Média aritmética
+2. Média ponderada
+3. Sair  
+Digite a opção desejada:
+Na opção 1: receber duas notas, calcular e mostrar a média aritmética.
+Na opção 2: receber três notas e seus respectivos pesos, calcular e mostrar a média ponderada.
+Na opção 3: sair do programa.  
+Verifique a possibilidade de opção inválida, mostrando uma mensagem.  
+
+2. Faça um programa que apresente o menu de opções a seguir, que permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verificar a possibilidade de opção inválida e não se preocupar com as restrições, como salário inválido.  
+Menu de opções:  
+1. Novo salário
+2. Férias
+3. Décimo terceiro
+4. Sair  
+Digite a opção desejada:
+Na Opção 1: receber o salário de um funcionário, calcular e mostrar o novo salário usando as regras da tabela em anexo.
+Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor de suas férias. Sabe-se que as férias equivale  ( salário Bruto + ⅓ de salário bruto).
+Na opção 3: receber o salário de um funcionário e o número de meses de trabalho na empresa, no máximo 12, calcular e mostrar o valor do décimo terceiro. Sabe-se que o décimo terceiro equivale ao seu salário multiplicado pelo número de meses de trabalho dividido por 12.  
+Na opção 4: sair do programa.
